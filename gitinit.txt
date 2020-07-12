@@ -1,0 +1,2 @@
+time to learn git init
+how to make a file a directory or repository
