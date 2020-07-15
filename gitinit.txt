@@ -1,2 +1,22 @@
 time to learn git init
 how to make a file a directory or repository
+
+To do it,
+make a directory on your computer (file)
+go to terminal add the path 
+By default any directory on computer is not a git repository, To make it a git repository give command -> gitinit
+Now this is an empty git repository
+Now we have to add it git file
+for that type in terminal -> git add filename
+you check it from git status then
+now there is no origin at now, because there is no remote made to github as the file was made on the computer 
+Go to github and make a repository 
+go to terminal type -> git remote add origin repository-link 
+type -> git remote (you will have the origin now)
+Now push the code by typing -> git push origin master
+the file will be pushed 
+Now open github 
+Open the file 
+edit the file on git hub
+go back to terminal and type -> git pull origin master 
+and you will see the changes made
